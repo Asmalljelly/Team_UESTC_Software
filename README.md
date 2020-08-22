@@ -1,4 +1,4 @@
-# [BioMaster2.0](http://bio.biomaster-uestc.com/public/index.php/main/home)
+# [BioMaster2.0](http://www.biomaster-uestc.cn)
 
 In this repository, not only contain all PHP codes about our web, but also contain all data, updata codes, docker and so on.
 
